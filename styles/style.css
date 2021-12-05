@@ -141,7 +141,7 @@ body{
   justify-content: space-between;
   align-items: flex-start;
   padding: 0px;
-  margin-bottom: 100px
+  margin-bottom: 100px;
 }
 .table__cell{
   width: 250px;
