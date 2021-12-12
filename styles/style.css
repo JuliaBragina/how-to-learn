@@ -48,6 +48,8 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 0;
   z-index: 2;
 }
 .header__link{
@@ -95,6 +97,8 @@
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .two-columns__main-text{
   width: 80%;
