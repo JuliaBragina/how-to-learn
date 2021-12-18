@@ -1,6 +1,6 @@
-# H1 How-to-Learn
+# How-to-Learn
 
-## H2 About project
+## About project
 This is a training project. It shows working with 
 1. flexbox, 
 2. positioning elements, 
@@ -9,7 +9,7 @@ This is a training project. It shows working with
 
 In this project the metodology of BEM is used. 
 
-## H2 Plans 
+## Plans 
 1. connect other fonts;
 2. add vendor prefixes;
 3. add a comment form.
