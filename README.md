@@ -1,15 +1,17 @@
 # How-to-Learn
 
-## About project
-This is a training project. It shows working with 
-1. flexbox, 
-2. positioning elements, 
-3. animation, 
-4. iframe.
+## О проекте
+Проект реализован по брифу Яндекс.Практикума, в котором раскрываются методики эффективного обучения.
 
-In this project the metodology of BEM is used. 
+## Описание
+В данном проекте отрабатывались навыки использования:
++ ul методологии БЭМ,
++ ul технологий flexbox и grid,
++ ul добавление видео с помощью тега iframe,
++ ul позиционирования элементов.
+Также в работе были использованы псевдоклассы для посвечивания интерактивных элементов, реализована анимация, файловая структуруа проекта организована по правилам Nested БЭМ.
 
-## Plans 
-1. connect other fonts;
-2. add vendor prefixes;
-3. add a comment form.
+## Стек
+- ul HTML5
+- ul CSS3
+
